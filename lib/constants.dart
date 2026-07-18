@@ -1,0 +1,21 @@
+import 'dart:ui';
+
+const Color kmaincolor = Color(0xffFFBD26);
+const Color ksecondcolor = Color(0xffFFE4A9);
+const String kadminPassword = 'Admin1234';
+const String kproductcollection = 'Products';
+const String kproductname = 'ProductName';
+const String kproductprice = 'ProductPrice';
+const String kproductdescription = 'ProductDescreption';
+const String kproductcategory = 'ProductCategory';
+const String kproductlocation = 'ProductLocation';
+const String kproductquantity = 'ProductQuantity';
+const Color kunactivcolor = Color(0xffc1bdb8);
+const String kjackets = 'jackets';
+const String ktshirt = 't-shirts';
+const String kshoes = 'shoes';
+const String ktrouser = 'trousers';
+const String korders = 'Orders';
+const String korderdetails = 'OrderDetail';
+const String ktotalprice = 'TotalPrice';
+const String kaddress = 'Address';

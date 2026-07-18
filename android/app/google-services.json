@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541728671061",
+    "project_id": "buy-it-eed95",
+    "storage_bucket": "buy-it-eed95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541728671061:android:df3da18e55ba657560dbdc",
+        "android_client_info": {
+          "package_name": "com.example.buy_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyWvCvbGUAinFZlUY45sIwP51QXgB9q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

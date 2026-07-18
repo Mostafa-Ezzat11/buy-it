@@ -6,7 +6,7 @@ A complete **Flutter E-Commerce** application built with **Flutter** and **Fireb
 
 ## 📱 Demo
 
-> 🎥 Demo Video: *(Add your LinkedIn or YouTube video link here)*
+> 🎥 Demo Video: https://www.linkedin.com/posts/mostafa-ezzat-827745379_flutter-flutterdeveloper-firebase-ugcPost-7484259566093000705-DAE6/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF2MTl8Birh2gOQJB3-sj1DE4tjoz5DU_Ng
 
 ---
 
@@ -38,13 +38,13 @@ A complete **Flutter E-Commerce** application built with **Flutter** and **Fireb
 
 ### ⚡ Additional Features
 
-- Real-time Updates using StreamBuilder
-- Cloud Firestore Database
-- Provider State Management
+- Real-time product and order updates using **Cloud Firestore** and **StreamBuilder**
+- State Management using **Provider**
 - Reusable Custom Widgets
-- Organized Project Structure
-- Responsive Navigation
-- Error Handling using SnackBars
+- Organized project structure
+- Custom fonts and local assets
+- Constants file for reusable colors and category names
+- Error handling using SnackBars
 
 ---
 

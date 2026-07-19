@@ -77,6 +77,23 @@ The project is organized to improve readability, scalability, and maintainabilit
 
 ---
 
+# 📸 Screenshots
+
+Example:
+
+```
+assets/screenshots/
+├── login.png
+├── UserHomePage.png
+├── ProductInfo.png
+├── CartPage.png
+├── AdminHomePage.png
+└── ordersPage.png
+```
+
+---
+
+
 # 🚀 Getting Started
 
 ## Clone the repository
